@@ -1,0 +1,12 @@
+{
+  "name": "keep-alive-max-rps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:0xHristo/keep-alive-max-rps.git",
+  "author": "0xHristo <hristoht.todorov@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "superagent": "^10.1.1"
+  }
+}
